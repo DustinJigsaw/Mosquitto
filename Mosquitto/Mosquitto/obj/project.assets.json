@@ -3331,11 +3331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Atrathiel\\Mosquitto\\Mosquitto\\Mosquitto.csproj",
+      "projectUniqueName": "C:\\Users\\Lab21-PC06\\Documents\\GitHub\\Mosquitto\\Mosquitto\\Mosquitto\\Mosquitto.csproj",
       "projectName": "Mosquitto",
-      "projectPath": "D:\\Atrathiel\\Mosquitto\\Mosquitto\\Mosquitto.csproj",
+      "projectPath": "C:\\Users\\Lab21-PC06\\Documents\\GitHub\\Mosquitto\\Mosquitto\\Mosquitto\\Mosquitto.csproj",
       "packagesPath": "C:\\Users\\Lab21-PC06\\.nuget\\packages\\",
-      "outputPath": "D:\\Atrathiel\\Mosquitto\\Mosquitto\\obj\\",
+      "outputPath": "C:\\Users\\Lab21-PC06\\Documents\\GitHub\\Mosquitto\\Mosquitto\\Mosquitto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

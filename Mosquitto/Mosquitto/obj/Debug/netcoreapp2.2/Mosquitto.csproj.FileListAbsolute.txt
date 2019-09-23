@@ -9,3 +9,14 @@ D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.AssemblyInfo.
 D:\Atrathiel\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.pdb
 D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.dll
 D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.pdb
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.deps.json
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.runtimeconfig.json
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.runtimeconfig.dev.json
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.dll
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.pdb
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.csprojAssemblyReference.cache
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.csproj.CoreCompileInputs.cache
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.AssemblyInfoInputs.cache
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.AssemblyInfo.cs
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.dll
+C:\Users\Lab21-PC06\Documents\GitHub\Mosquitto\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.pdb
