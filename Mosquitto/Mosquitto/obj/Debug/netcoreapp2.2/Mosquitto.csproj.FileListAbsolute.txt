@@ -1,0 +1,11 @@
+D:\Atrathiel\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.deps.json
+D:\Atrathiel\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.runtimeconfig.json
+D:\Atrathiel\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.runtimeconfig.dev.json
+D:\Atrathiel\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.dll
+D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.csprojAssemblyReference.cache
+D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.csproj.CoreCompileInputs.cache
+D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.AssemblyInfoInputs.cache
+D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.AssemblyInfo.cs
+D:\Atrathiel\Mosquitto\Mosquitto\bin\Debug\netcoreapp2.2\Mosquitto.pdb
+D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.dll
+D:\Atrathiel\Mosquitto\Mosquitto\obj\Debug\netcoreapp2.2\Mosquitto.pdb
